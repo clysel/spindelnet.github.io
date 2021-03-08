@@ -5,4 +5,4 @@ menu: 10
 published: true
 ---
 
-Kommer snart
+Kommer snart...
